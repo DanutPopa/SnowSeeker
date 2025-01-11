@@ -13,7 +13,7 @@ struct Facility: Identifiable {
     
     private let icons = [
         "Accommodation": "house",
-        "Begginers": "1.circle",
+        "Beginners": "1.circle",
         "Cross-country": "map",
         "Eco-friendly": "leaf.arrow.circlepath",
         "Family": "person.3"
@@ -21,7 +21,7 @@ struct Facility: Identifiable {
     
     private let descriptions = [
         "Accommodation": "This resort has popular on-site accommodation.",
-        "Begginers": "This resort has lots of ski schools.",
+        "Beginners": "This resort has lots of ski schools.",
         "Cross-country": "This resort has many cross-country ski routes.",
         "Eco-friendly": "This resort has won a award for environmental friendliness.",
         "Family": "This resort is popular with families."
